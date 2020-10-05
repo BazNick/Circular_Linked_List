@@ -1,4 +1,4 @@
-# Circular_Linked_List
+# Circular_Linked_List class
 Circular Linked List implementation in Python 3
 
 Circluar Linked List implementation in Python 3
