@@ -1,8 +1,6 @@
 # Circular_Linked_List class
 Circular Linked List implementation in Python 3
 
-Circluar Linked List implementation in Python 3
-
 In this implementation I have following methods:
 
 - Checking size of a Circular Linked List;
